@@ -12,4 +12,4 @@ Because this extension is not yet available on the Chrome Web Store, you will ne
 5. In the top left corner, click **Load unpacked**.
 6. Select the folder you extracted in Step 2.
 
-The extension is now installed! Pin it to your taskbar and log in to get started.
+The extension is now installed! Log in to get started.
