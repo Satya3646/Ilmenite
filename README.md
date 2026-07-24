@@ -1,0 +1,15 @@
+# Ilmenite Plus
+
+Welcome to the beta release of Ilmenite Plus! 
+
+## How to Install the Extension
+Because this extension is currently in beta, it is not yet available on the Chrome Web Store. You will need to install it manually.
+
+1. Download the `ilmenite-plus.zip` file from this repository.
+2. Extract the `.zip` file to a folder on your computer.
+3. Open Google Chrome (or Edge) and go to the URL: `chrome://extensions/`
+4. In the top right corner, turn on **Developer mode**.
+5. In the top left corner, click **Load unpacked**.
+6. Select the folder you extracted in Step 2.
+
+The extension is now installed! Pin it to your taskbar and log in to get started.
